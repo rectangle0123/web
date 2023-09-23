@@ -4,7 +4,7 @@ _September 23, 2023_
 
 ## Greetings
 
-This website is a non-work-related web project created by me, a professional in the field of system development
+This website is a non-work-related web project created by me, a professional in the field of system development.
 
 I realized that when attempting to publish my hobby-made app on the store, I need to prepare a web page with a privacy policy statement.
 In order to fulfill this requirement, I initially planned to create a standalone web page. However, I decided to turn it into a portfolio-style website where I can also showcase other articles and content.
