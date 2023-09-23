@@ -34,8 +34,6 @@ We implement security measures to appropriately protect your personal informatio
 
 ## Contact Information
 
-For questions or inquiries about this Privacy Policy, please contact us at the following address:
-
-- rectangle0123@gmail.com
+For questions or inquiries about this Privacy Policy, please contact us at the email address on the left.
 
 This Privacy Policy may be periodically reviewed and updated. For the latest information, please check this page or contact us.
