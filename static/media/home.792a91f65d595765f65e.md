@@ -13,4 +13,4 @@ I'm looking forward to sharing various 'playful' accomplishments here.
 
 ## Inquiries
 
-If you have any inquiries or questions, please feel free to reach out to me at the email address on the left.
+If you have any inquiries or questions, please feel free to reach out to me at the email address on the right or below.

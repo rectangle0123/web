@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapp_web=self.webpackChunkapp_web||[]).push([[760],{1760:function(p,e,a){p.exports=a.p+"static/media/privacy-policy.7085ef880c2f97b103a1.md"}}]);

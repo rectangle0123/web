@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapp_web=self.webpackChunkapp_web||[]).push([[704],{704:function(a,p,e){a.exports=e.p+"static/media/ukiyo-map.2f343aba71c39bd0da0f.md"}}]);

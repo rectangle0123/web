@@ -34,6 +34,6 @@ We implement security measures to appropriately protect your personal informatio
 
 ## Contact Information
 
-For questions or inquiries about this Privacy Policy, please contact us at the email address on the left.
+For questions or inquiries about this Privacy Policy, please contact us at the email address on the right or below.
 
 This Privacy Policy may be periodically reviewed and updated. For the latest information, please check this page or contact us.
